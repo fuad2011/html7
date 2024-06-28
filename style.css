@@ -1,0 +1,59 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background: url(https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?cs=srgb&dl=pexels-kellie-churchman-371878-1001682.jpg&fm=jpg);
+    background-repeat: no-repeat;
+}
+.login{
+    background: url(https://sibexpeditions.ru/wp-content/uploads/2022/11/beautiful-winter-taiga-forest-index-3.jpg);
+    height: 6000px;
+    width: 2000px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+.text{
+    color: white;
+    font-size: 23px;
+    height: 350px;
+    width: 300px;
+}
+.lorem{
+    font-size: 20px;
+}
+.login2{
+    background: url(https://images.pexels.com/photos/1179225/pexels-photo-1179225.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    height: 750px;
+    width: 500px;
+    border-radius: 10px;
+    margin-top: -300px;
+    margin-left: 900px;
+    box-shadow: 10px 10px 10px black; 
+}
+.name{
+    color: white;
+    margin-left: 75px;
+    font-size: 20px;
+}
+.password{
+    color: white;
+    margin-left: 75px;
+    font-size: 20px;
+}
+input{
+padding: 10px;
+width: 300px;
+border-radius: 20px;
+opacity: 5;
+margin-left: 75px;
+margin-top: 0px;
+
+}
+.llorem{
+    color: white;
+    margin-left: 250px;
+    margin-top: -18px;
+}
